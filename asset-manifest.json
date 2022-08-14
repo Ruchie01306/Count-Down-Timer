@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Count-Down-Timer/static/css/main.00e16fbd.css",
+    "main.js": "/Count-Down-Timer/static/js/main.222f4001.js",
+    "static/media/timer.jpg": "/Count-Down-Timer/static/media/timer.04879632e5ecbf69e260.jpg",
+    "index.html": "/Count-Down-Timer/index.html",
+    "main.00e16fbd.css.map": "/Count-Down-Timer/static/css/main.00e16fbd.css.map",
+    "main.222f4001.js.map": "/Count-Down-Timer/static/js/main.222f4001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e16fbd.css",
+    "static/js/main.222f4001.js"
+  ]
+}
